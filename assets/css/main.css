@@ -262,7 +262,8 @@ body
 	transform: scale(1.1);
 }
 .portfolio-item-details{
-	margin: 20px 0px 50px; 
+	margin: 20px 0px 50px;
+	text-align: left; 
 }
 .portfolio-item-name{
 	display: inline-block;
@@ -282,6 +283,12 @@ body
 }
 .btn-modal:hover{
 	display: inherit;
+}
+.img-modal{
+	width: 100%;
+}
+.btn-portifolio{
+	background: transparent;
 }
 /*=================================================
 ||				8. Note
