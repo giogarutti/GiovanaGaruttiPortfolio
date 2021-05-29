@@ -290,6 +290,9 @@ body
 .btn-portifolio{
 	background: transparent;
 }
+.carousel-example-generic:hover{
+	cursor: inherit;
+}
 /*=================================================
 ||				8. Note
 ==================================================*/
