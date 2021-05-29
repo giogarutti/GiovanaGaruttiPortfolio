@@ -293,6 +293,15 @@ body
 .carousel-example-generic:hover{
 	cursor: inherit;
 }
+.carousel-indicators li{
+	border: 2.5px solid #4a148c;
+}
+.carousel-indicators .active{
+	background-color: #fff;
+}
+.item .active{
+	cursor: initial !important;
+}
 /*=================================================
 ||				8. Note
 ==================================================*/
