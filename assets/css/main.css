@@ -229,10 +229,7 @@ body
 .porfolio{
 	background: #f9f9f9;
 }
-.port-item{
-	max-width: 267.33px;
-	max-height: 188.58px;
-}
+
 .portfolio-img{
 	position: relative;
 	overflow: hidden;
@@ -544,5 +541,9 @@ a .rss:hover{
 		max-width: 421px;
 		margin: auto;    
 		display: block;
+	}
+	.port-item{
+		max-width: 267.33px;
+		max-height: 188.58px;
 	}
 }
