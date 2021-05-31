@@ -286,6 +286,7 @@ body
 }
 .btn-portifolio{
 	background: transparent;
+	width: 100%;
 }
 .carousel{
 	width: 100%;
@@ -539,8 +540,5 @@ a .rss:hover{
 		margin: auto;    
 		display: block;
 	}
-	.port-item{
-		max-width: 267.33px;
-		max-height: 188.58px;
-	}
+	
 }
